@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-social-auth](backend/modules/social-auth)
 - [react-native-app-menu](modules/app-menu)
 - [react-native-onboarding](modules/onboarding)
+- [react-native-maps](modules/maps)
 
 # Getting started: Frontend
 
