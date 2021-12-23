@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [react-native-login](modules/login)
 - [django-push-notifications](backend/modules/push-notifications)
+- [react-native-push-notifications](modules/push-notifications)
 
 # Getting started: Frontend
 
