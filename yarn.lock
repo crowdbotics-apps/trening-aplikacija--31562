@@ -968,6 +968,14 @@
     react-native-emoji-selector "^0.2.0"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
+"@modules/chat@file:./modules/chat/":
+  version "1.0.0"
+  dependencies:
+    pubnub "^4.29.11"
+    pubnub-react "^2.1.0"
+    react-native-emoji-selector "^0.2.0"
+    react-native-keyboard-aware-scroll-view "^0.9.3"
+
 "@modules/login@file:./modules/login":
   version "1.0.0"
   dependencies:
@@ -988,7 +996,7 @@
   dependencies:
     react-native-render-html "^5.1.0"
 
-"@modules/push-notifications@file:./modules/push-notifications/":
+"@modules/push-notifications@file:./modules/push-notifications":
   version "1.0.0"
 
 "@modules/social-login@file:./modules/social-login":
